@@ -28,3 +28,11 @@ Resources for customers to learn about our farm and products
 We’re blending agriculture and technology — if you’re interested in contributing ideas, improving the website, or collaborating on farm-tech projects, feel free to open an issue or submit a pull request.
 
 Together, we can make the holiday season greener, brighter, and more connected.
+
+🛠️ Tech Stack
+
+HTML5 / CSS3 / JavaScript
+
+Font Awesome for icons
+
+GitHub Pages for hosting
