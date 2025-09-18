@@ -324,7 +324,7 @@ input, select, textarea {
 
 /* Row */
 div#intro{
-	background-image: url(/richardson-tree-farm/img/fatherSonPhoto.jpg);
+	background-image: url(../../img/fatherSonPhoto.jpg);
 	background-position: center;
 	background-size: contain;
 	background-repeat: no-repeat;
